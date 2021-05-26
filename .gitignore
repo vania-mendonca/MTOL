@@ -1,16 +1,5 @@
 ################################################################################
 
-# Data processing folder (except preprocessing nb)
-data_processing/
-!data_processing/
-data_processing/*
-!data_processing/Preprocessing-AnyLang.ipynb
-
-datasets/
-results/
-
-################################################################################
-
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,jupyternotebooks
 

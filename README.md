@@ -7,6 +7,12 @@
 - `pip install -r requirements.txt`
 
 
+### Data
+
+We use the test sets from the WMT'19 News Translation shared task: http://statmt.org/wmt19/translation-task.html
+
+In the `datasets/` folder, we provide the Comet scores for each pair of segment ID (`sid`) and competing system.     
+
 ### How to cite
 
 If you use this code, please cite the following article:
