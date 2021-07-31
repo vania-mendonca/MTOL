@@ -17,4 +17,4 @@ In the `datasets/` folder, we provide the Comet scores for each pair of segment 
 
 If you use this code, please cite the following article:
 
-- Mendonça V., Rei R., Coheur L., Sardinha A., Santos A. L. (2021), **Online Learning meets Machine Translation Evaluation: finding the best systems with the least human effort**, in *Proceedings of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
+- Mendonça, V., Rei, R., Coheur, L., Sardinha, A., & Santos, A. L. (2021). **Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort**. *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*, 3105–3117. https://doi.org/10.18653/v1/2021.acl-long.242
